@@ -1,0 +1,108 @@
+  body {
+    font-family: 'Open Sans', sans-serif;
+    color: #4F6367;
+  }
+  
+  .header {
+    background-color: #B8D8D8;
+    height: 80px;
+    width: 100vw;
+  }
+  
+  .settings-icon {
+    position: absolute;
+    right: 0px;
+    margin: 20px 10px;
+  }
+  
+  .user-icon {
+    margin: 20px 10px;
+    position: absolute;
+  }
+  
+  .header-name {
+    padding-top: 20px;
+    text-align: center;
+    font-size: 24px;
+  }
+  
+  .header-result {
+    text-align: center;
+    font-size: 14px;
+    margin-bottom: 20px;
+  }
+  
+  .header-points {
+    font-size: 24px;
+  }
+  
+  .graph {
+    width: 95vw;
+    margin: 10px 2.5vw;
+  }
+  
+  
+  .calendar {
+    width: 100vw;
+  }
+  
+  .add-goals {
+    background-color: #B8D8D8;
+    height: 50px;
+  }
+  
+  .add-goals-text {
+    color: #FE5F55;
+    font-size: 24px;
+    position: absolute;
+    right: 0px;
+    margin: 10px;
+  }
+  
+  .flag-icon {
+    position: absolute;
+    margin: 10px;
+  }
+  
+  .location {
+    background-color: #D3E7DA;
+    height: 50px;
+  }
+  
+  .location-icon {
+    position: absolute;
+    margin: 10px;
+  }
+  
+  .location-info {
+    position: relative;
+    text-align: right;
+    padding: 3px;
+    margin-right: 5px;
+  }
+  
+  .location-name {
+    font-size: 18px;
+  }
+  
+  .location-distance {
+    font-size: 14px;
+  }
+  
+  .user-team {
+    background-color: #EEF5DB;
+    height: 50px;
+  }
+  
+  .user-icon {
+    position: absolute;
+    margin: 10px;
+  }
+  
+  .team-name {
+    position: relative;
+    text-align:right;
+    font-size: 24px;
+    padding: 13px;
+    margin-right: 5px;
+  }
